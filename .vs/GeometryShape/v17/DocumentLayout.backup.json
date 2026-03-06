@@ -1,17 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Sitkov\\GeometryShape\\",
+  "WorkspaceRootPath": "C:\\GeometryShape\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99E933B4-FD73-469D-9144-62F76D619D3F}|GeometryShape.csproj|c:\\sitkov\\geometryshape\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4014129B-35CB-490D-AF1C-90E644CBD3D3}|TestProject\\TestProject.csproj|c:\\geometryshape\\testproject\\triangletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4014129B-35CB-490D-AF1C-90E644CBD3D3}|TestProject\\TestProject.csproj|solutionrelative:testproject\\triangletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4014129B-35CB-490D-AF1C-90E644CBD3D3}|TestProject\\TestProject.csproj|c:\\geometryshape\\testproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4014129B-35CB-490D-AF1C-90E644CBD3D3}|TestProject\\TestProject.csproj|solutionrelative:testproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E933B4-FD73-469D-9144-62F76D619D3F}|GeometryShape.csproj|C:\\GeometryShape\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99E933B4-FD73-469D-9144-62F76D619D3F}|GeometryShape.csproj|solutionrelative:rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99E933B4-FD73-469D-9144-62F76D619D3F}|GeometryShape.csproj|c:\\sitkov\\geometryshape\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99E933B4-FD73-469D-9144-62F76D619D3F}|GeometryShape.csproj|C:\\GeometryShape\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99E933B4-FD73-469D-9144-62F76D619D3F}|GeometryShape.csproj|solutionrelative:triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99E933B4-FD73-469D-9144-62F76D619D3F}|GeometryShape.csproj|c:\\sitkov\\geometryshape\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99E933B4-FD73-469D-9144-62F76D619D3F}|GeometryShape.csproj|C:\\GeometryShape\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99E933B4-FD73-469D-9144-62F76D619D3F}|GeometryShape.csproj|solutionrelative:shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,46 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Triangle.cs",
-              "DocumentMoniker": "C:\\Sitkov\\GeometryShape\\Triangle.cs",
-              "RelativeDocumentMoniker": "Triangle.cs",
-              "ToolTip": "C:\\Sitkov\\GeometryShape\\Triangle.cs",
-              "RelativeToolTip": "Triangle.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAkwBMAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "TriangleTests.cs",
+              "DocumentMoniker": "C:\\GeometryShape\\TestProject\\TriangleTests.cs",
+              "RelativeDocumentMoniker": "TestProject\\TriangleTests.cs",
+              "ToolTip": "C:\\GeometryShape\\TestProject\\TriangleTests.cs",
+              "RelativeToolTip": "TestProject\\TriangleTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T09:52:54.781Z",
+              "WhenOpened": "2026-03-06T11:58:55.436Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Rectangle.cs",
-              "DocumentMoniker": "C:\\Sitkov\\GeometryShape\\Rectangle.cs",
-              "RelativeDocumentMoniker": "Rectangle.cs",
-              "ToolTip": "C:\\Sitkov\\GeometryShape\\Rectangle.cs",
-              "RelativeToolTip": "Rectangle.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\GeometryShape\\TestProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject\\UnitTest1.cs",
+              "ToolTip": "C:\\GeometryShape\\TestProject\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T09:32:33.663Z",
+              "WhenOpened": "2026-03-06T11:47:03.588Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\GeometryShape\\Triangle.cs",
+              "RelativeDocumentMoniker": "Triangle.cs",
+              "ToolTip": "C:\\GeometryShape\\Triangle.cs",
+              "RelativeToolTip": "Triangle.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwBMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T09:52:54.781Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\GeometryShape\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Rectangle.cs",
+              "ToolTip": "C:\\GeometryShape\\Rectangle.cs",
+              "RelativeToolTip": "Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T09:32:33.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Shape.cs",
-              "DocumentMoniker": "C:\\Sitkov\\GeometryShape\\Shape.cs",
+              "DocumentMoniker": "C:\\GeometryShape\\Shape.cs",
               "RelativeDocumentMoniker": "Shape.cs",
-              "ToolTip": "C:\\Sitkov\\GeometryShape\\Shape.cs",
+              "ToolTip": "C:\\GeometryShape\\Shape.cs",
               "RelativeToolTip": "Shape.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T09:29:44.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T09:29:44.846Z"
             }
           ]
         }
