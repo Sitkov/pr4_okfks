@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "TestProject\\TriangleTest.cs",
               "ToolTip": "C:\\GeometryShape\\TestProject\\TriangleTest.cs",
               "RelativeToolTip": "TestProject\\TriangleTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-06T12:31:07.652Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "TestProject\\UnitTest1.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T11:47:03.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T11:47:03.588Z"
             },
             {
               "$type": "Document",
