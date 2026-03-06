@@ -1,0 +1,6 @@
+C:\Sitkov\GeometryShape\bin\Debug\GeometryShape.dll
+C:\Sitkov\GeometryShape\bin\Debug\GeometryShape.pdb
+C:\Sitkov\GeometryShape\obj\Debug\GeometryShape.csproj.AssemblyReference.cache
+C:\Sitkov\GeometryShape\obj\Debug\GeometryShape.csproj.CoreCompileInputs.cache
+C:\Sitkov\GeometryShape\obj\Debug\GeometryShape.dll
+C:\Sitkov\GeometryShape\obj\Debug\GeometryShape.pdb
