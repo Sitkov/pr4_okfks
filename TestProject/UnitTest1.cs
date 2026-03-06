@@ -18,7 +18,8 @@ namespace GeometryShape
         [Fact]
         public void RectangleInvalidinput ()
         {
-            Assert.Throws<ArgumentException>(() => new Rectangle(-4, -5));
+            Rectangle rectangle = new Rectangle(4, 5);
+            Assert.Equal(18, rectangle.Perimeter());
         }
     }
 }

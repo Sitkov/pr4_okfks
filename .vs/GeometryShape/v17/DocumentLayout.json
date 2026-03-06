@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\GeometryShape\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4014129B-35CB-490D-AF1C-90E644CBD3D3}|TestProject\\TestProject.csproj|c:\\geometryshape\\testproject\\triangletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4014129B-35CB-490D-AF1C-90E644CBD3D3}|TestProject\\TestProject.csproj|solutionrelative:testproject\\triangletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4014129B-35CB-490D-AF1C-90E644CBD3D3}|TestProject\\TestProject.csproj|c:\\geometryshape\\testproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4014129B-35CB-490D-AF1C-90E644CBD3D3}|TestProject\\TestProject.csproj|solutionrelative:testproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99E933B4-FD73-469D-9144-62F76D619D3F}|GeometryShape.csproj|C:\\GeometryShape\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99E933B4-FD73-469D-9144-62F76D619D3F}|GeometryShape.csproj|solutionrelative:rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4014129B-35CB-490D-AF1C-90E644CBD3D3}|TestProject\\TestProject.csproj|c:\\geometryshape\\testproject\\triangletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4014129B-35CB-490D-AF1C-90E644CBD3D3}|TestProject\\TestProject.csproj|solutionrelative:testproject\\triangletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99E933B4-FD73-469D-9144-62F76D619D3F}|GeometryShape.csproj|C:\\GeometryShape\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "TriangleTest.cs",
               "DocumentMoniker": "C:\\GeometryShape\\TestProject\\TriangleTest.cs",
               "RelativeDocumentMoniker": "TestProject\\TriangleTest.cs",
@@ -47,15 +47,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\GeometryShape\\TestProject\\UnitTest1.cs",
               "RelativeDocumentMoniker": "TestProject\\UnitTest1.cs",
               "ToolTip": "C:\\GeometryShape\\TestProject\\UnitTest1.cs",
               "RelativeToolTip": "TestProject\\UnitTest1.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAawBUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T11:47:03.588Z"
+              "WhenOpened": "2026-03-06T11:47:03.588Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -71,15 +72,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Rectangle.cs",
               "DocumentMoniker": "C:\\GeometryShape\\Rectangle.cs",
               "RelativeDocumentMoniker": "Rectangle.cs",
               "ToolTip": "C:\\GeometryShape\\Rectangle.cs",
               "RelativeToolTip": "Rectangle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T09:32:33.663Z"
+              "WhenOpened": "2026-02-25T09:32:33.663Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
